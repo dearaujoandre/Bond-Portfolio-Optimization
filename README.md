@@ -1,6 +1,6 @@
 # Bond-Portfolio-Optimization
 
- I think it is useful by showing one good method that financial institutions use to mitigate net exposure to interest rate volatility. This method is to simply match the duration between assets and liabilities and then maximize convexity.
+ I think this program is useful by showing one good method that financial institutions use to mitigate net exposure to interest rate volatility. This method is to simply match the duration between assets and liabilities and then maximize convexity.
 
 Real life examples are:
 
